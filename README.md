@@ -9,6 +9,10 @@ git clone https://github.com/wavygoten/react-webapp.git
 ```
 
 ```sh
+cd react-webapp
+```
+
+```sh
 npm install && npm start
 ```
 
