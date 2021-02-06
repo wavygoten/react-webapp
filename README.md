@@ -5,7 +5,11 @@
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install react-webapp-boilerplate --save
+git clone https://github.com/wavygoten/react-webapp.git
+```
+
+```sh
+npm install && npm start
 ```
 
 This package is provided in these module formats:
